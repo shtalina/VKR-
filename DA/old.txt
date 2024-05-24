@@ -1,0 +1,204 @@
+from django.db import models
+
+"""
+# class Students(models.Model):
+    id = models.IntegerField(primary_key=True)
+    user_id = models.IntegerField(unique=True)
+    fio = models.TextField()
+    spec = models.TextField(blank=True, null=True)
+    adress = models.TextField(blank=True, null=True)
+    tel = models.TextField(blank=True, null=True)
+    email = models.TextField(blank=True, null=True)
+    spec_napravl = models.TextField(blank=True, null=True)
+    forma = models.CharField(max_length=20, blank=True, null=True)
+    sroki = models.TextField(blank=True, null=True)
+    facultet = models.TextField(blank=True, null=True)
+    kafedra = models.CharField(max_length=50, blank=True, null=True)
+    rukov = models.CharField(max_length=50, blank=True, null=True)
+    tema = models.CharField(max_length=100, blank=True, null=True)
+    gruppa = models.IntegerField(blank=True, null=True)
+    edecanat_id = models.IntegerField(unique=True, blank=True, null=True)
+    fac_id = models.IntegerField(blank=True, null=True)
+ #   course = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'students'
+"""
+
+class Files(models.Model):
+    fio = models.CharField(max_length=50, blank=True, null=True)
+    name = models.TextField(blank=True, null=True)
+    category = models.CharField(max_length=50, blank=True, null=True)
+    owner = models.IntegerField(blank=True, null=True)
+    size = models.IntegerField(blank=True, null=True)
+    type = models.TextField(blank=True, null=True)
+    url = models.TextField(blank=True, null=True)
+    description = models.TextField(blank=True, null=True)
+    id = models.IntegerField(db_column='stud_id', primary_key=True)
+
+    class Meta:
+        managed = False
+        db_table = 'files'
+""""
+class Marks(models.Model):
+
+    student_id = models.IntegerField(db_column='STUDENT_ID', blank=True, null=True)  # Field name made lowercase.
+    student_fio = models.CharField(db_column='STUDENT_FIO', max_length=100, blank=True, null=True)  # Field name made lowercase.
+    gruppa = models.IntegerField(db_column='GRUPPA', blank=True, null=True)  # Field name made lowercase.
+    discipline_name = models.TextField(db_column='DISCIPLINE_NAME', blank=True, null=True)  # Field name made lowercase.
+    mark_name = models.CharField(max_length=20, blank=True, null=True)
+    is_examen = models.IntegerField(db_column='IS_EXAMEN', blank=True, null=True)  # Field name made lowercase.
+    number_of_semester = models.IntegerField(db_column='NUMBER_OF_SEMESTER', blank=True, null=True)  # Field name made lowercase.
+    mark = models.IntegerField(blank=True, null=True)
+    coddis = models.CharField(db_column='CODDIS', max_length=50, blank=True, null=True)  # Field name made lowercase.
+    id = models.IntegerField(db_column='stud_id', primary_key=True)
+
+    class Meta:
+        managed = False
+        db_table = 'marks'
+"""
+
+class Student(models.Model):
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=100)
+    metric1 = models.PositiveIntegerField()
+    metric2 = models.PositiveIntegerField()
+    metric3 = models.PositiveIntegerField()
+    metric4 = models.PositiveIntegerField()
+    metric5 = models.PositiveIntegerField()
+    intro_extro = models.PositiveIntegerField()
+    adapt = models.PositiveIntegerField()
+    social = models.PositiveIntegerField()
+    refl = models.PositiveIntegerField()
+    motivation = models.PositiveIntegerField()
+
+    class Meta:
+        managed = False
+        db_table = 'cogn_student'
+
+class Comp(models.Model):
+    id = models.IntegerField(primary_key=True)
+    kod_plana = models.PositiveIntegerField()
+    stud_plan = models.PositiveIntegerField()
+    comp_name = models.PositiveIntegerField()
+    shifr_name = models.PositiveIntegerField()
+    order = models.PositiveIntegerField()
+
+    class Meta:
+        managed = False
+        db_table = 'comp'
+
+
+class Faculty(models.Model):
+    name = models.CharField(max_length=255)
+    short_name = models.CharField(max_length=50)
+
+    def __str__(self):
+        return self.name
+
+class Group(models.Model):
+    faculty = models.ForeignKey(Faculty, on_delete=models.CASCADE)
+    cod1 = models.IntegerField()
+    fakshfr1 = models.CharField(max_length=10)
+    kurs1 = models.IntegerField()
+    gruppa1 = models.CharField(max_length=10)
+    def __str__(self):
+        return f"{self.faculty} - {self.gruppa1}"
+
+class Students(models.Model):
+    id = models.IntegerField(primary_key=True)
+    student_id = models.IntegerField()
+    fio = models.CharField(max_length=255)
+    group = models.ForeignKey(Group, on_delete=models.CASCADE)
+
+    class Meta:
+        db_table = 'student'
+
+    def __str__(self):
+        return f"{self.fio} - {self.group}"
+
+class Mark(models.Model):
+
+    student_id = models.ForeignKey(Student, on_delete=models.CASCADE)
+    student_fio = models.CharField(max_length=255)
+    gruppa = models.CharField(max_length=255)  # Added field
+    cod = models.IntegerField()  # Added field
+    id_disc = models.IntegerField()  # Added field
+    discipline_name = models.CharField(max_length=255)
+    mark_name = models.CharField(max_length=255)
+    is_examen = models.BooleanField()  # Added field
+    number_of_semester = models.IntegerField()  # Added field
+    coddis = models.CharField(max_length=255)  # Added field
+    idplan = models.IntegerField()  # Added field
+    value = models.CharField(max_length=255)  # Added field
+    fio = models.CharField(max_length=255)
+    course = models.IntegerField()  # Added field
+    type_control = models.CharField(max_length=255)
+
+    class Meta:
+        db_table = 'fdgfd'
+    def __str__(self):
+        return f"{self.student_fio} - {self.gruppa} - {self.discipline_name} - {self.mark_name}"
+
+class File(models.Model):
+    student_id = models.ForeignKey(Student, on_delete=models.CASCADE)
+    student_fio = models.CharField(max_length=255)
+    gruppa = models.CharField(max_length=255)  # Added field
+    name = models.CharField(max_length=255)
+    description = models.CharField(max_length=255)
+    category = models.CharField(max_length=255)
+    owner = models.IntegerField()  # Added field
+    url = models.CharField(max_length=255)
+
+    class Meta:
+        db_table = 'file'
+
+    def __str__(self):
+        return f"{self.student_fio} - {self.gruppa} - {self.name}"
+
+
+
+
+
+
+
+
+
+"""  # А тут будет когнитивная моделька
+    def model():
+        values = [data.intro_extro, data.adapt, data.social, data.refl, data.motivation]
+        intro_extro_value = data.intro_extro
+        adapt_value = data.adapt
+        social_value = data.social
+        refl_value = data.refl
+        motivation_value = data.motivation
+
+        # Задайте имена шкал
+        scales = ['Стрессоустойчивость', 'Адаптивность', 'Уровень общительности', 'Способность к рефлексии', 'Самомотивация']
+
+        # Создайте бар-график для каждой шкалы
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=[intro_extro_value], y=[scales[0]], orientation='h', name=scales[0],  marker = dict(color='rgb(108, 134, 217)'), width=0.5, showlegend=False))
+        fig.add_trace(go.Bar(x=[adapt_value], y=[scales[1]], orientation='h', name=scales[1],  marker = dict(color='rgb(85, 110, 189)'), width=0.5, showlegend=False))
+        fig.add_trace(go.Bar(x=[social_value], y=[scales[2]], orientation='h', name=scales[2],  marker = dict(color='rgb(79, 105, 189)'), width=0.5, showlegend=False))
+        fig.add_trace(go.Bar(x=[refl_value], y=[scales[3]], orientation='h', name=scales[3],  marker = dict(color='rgb(104, 124, 189)'),width=0.5, showlegend=False))
+        fig.add_trace(go.Bar(x=[motivation_value], y=[scales[4]], orientation='h', name=scales[4],  marker = dict(color='rgb(79, 98, 158)'),width=0.5, showlegend=False))
+
+        # Настройте внешний вид графика
+        fig.update_layout(
+            width=700,  # Устанавливаем ширину графика
+            height=500,
+            barmode='relative',
+            xaxis_title='Значение',
+            yaxis_title='Шкала',
+
+        )
+
+        # Преобразуйте график в HTML
+        graph_ht = fig.to_html(full_html=False)
+        return(graph_ht)
+
+    graph_ht = model()
+    graph_ht = graph_ht
+"""

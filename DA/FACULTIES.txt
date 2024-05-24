@@ -1,0 +1,3048 @@
+[
+    {
+        "id": 4,
+        "name": "Физико-математический факультет",
+        "short_name": "ФМФ",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3037,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "14/431М"
+                },
+                {
+                    "cod1": 3038,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "14/432М"
+                },
+                {
+                    "cod1": 3039,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "14/433М"
+                },
+                {
+                    "cod1": 3091,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "431"
+                },
+                {
+                    "cod1": 3092,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "432"
+                },
+                {
+                    "cod1": 3090,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "433"
+                },
+                {
+                    "cod1": 3112,
+                    "fakshfr1": "4",
+                    "kurs1": 1,
+                    "gruppa1": "434М"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2715,
+                    "fakshfr1": "4",
+                    "kurs1": 2,
+                    "gruppa1": "421"
+                },
+                {
+                    "cod1": 2770,
+                    "fakshfr1": "4",
+                    "kurs1": 2,
+                    "gruppa1": "421М"
+                },
+                {
+                    "cod1": 2707,
+                    "fakshfr1": "4",
+                    "kurs1": 2,
+                    "gruppa1": "422"
+                },
+                {
+                    "cod1": 2709,
+                    "fakshfr1": "4",
+                    "kurs1": 2,
+                    "gruppa1": "423"
+                },
+                {
+                    "cod1": 2768,
+                    "fakshfr1": "4",
+                    "kurs1": 2,
+                    "gruppa1": "424М"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2662,
+                    "fakshfr1": "4",
+                    "kurs1": 3,
+                    "gruppa1": "411"
+                },
+                {
+                    "cod1": 2663,
+                    "fakshfr1": "4",
+                    "kurs1": 3,
+                    "gruppa1": "412"
+                },
+                {
+                    "cod1": 2664,
+                    "fakshfr1": "4",
+                    "kurs1": 3,
+                    "gruppa1": "413"
+                },
+                {
+                    "cod1": 2857,
+                    "fakshfr1": "4",
+                    "kurs1": 3,
+                    "gruppa1": "483А/3"
+                },
+                {
+                    "cod1": 2856,
+                    "fakshfr1": "4",
+                    "kurs1": 3,
+                    "gruppa1": "493А"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2593,
+                    "fakshfr1": "4",
+                    "kurs1": 4,
+                    "gruppa1": "401"
+                },
+                {
+                    "cod1": 2594,
+                    "fakshfr1": "4",
+                    "kurs1": 4,
+                    "gruppa1": "402"
+                },
+                {
+                    "cod1": 2592,
+                    "fakshfr1": "4",
+                    "kurs1": 4,
+                    "gruppa1": "403"
+                },
+                {
+                    "cod1": 2872,
+                    "fakshfr1": "4",
+                    "kurs1": 4,
+                    "gruppa1": "483А/4"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2874,
+                    "fakshfr1": "4",
+                    "kurs1": 5,
+                    "gruppa1": "472А/5"
+                },
+                {
+                    "cod1": 2256,
+                    "fakshfr1": "4",
+                    "kurs1": 5,
+                    "gruppa1": "481"
+                },
+                {
+                    "cod1": 2436,
+                    "fakshfr1": "4",
+                    "kurs1": 5,
+                    "gruppa1": "491"
+                },
+                {
+                    "cod1": 2437,
+                    "fakshfr1": "4",
+                    "kurs1": 5,
+                    "gruppa1": "492"
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Биолого-химический факультет",
+        "short_name": "БХФ",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3077,
+                    "fakshfr1": "18",
+                    "kurs1": 1,
+                    "gruppa1": "133"
+                },
+                {
+                    "cod1": 3078,
+                    "fakshfr1": "18",
+                    "kurs1": 1,
+                    "gruppa1": "134"
+                },
+                {
+                    "cod1": 3035,
+                    "fakshfr1": "18",
+                    "kurs1": 1,
+                    "gruppa1": "14/131М"
+                },
+                {
+                    "cod1": 3036,
+                    "fakshfr1": "18",
+                    "kurs1": 1,
+                    "gruppa1": "14/133М"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2779,
+                    "fakshfr1": "18",
+                    "kurs1": 2,
+                    "gruppa1": "121М"
+                },
+                {
+                    "cod1": 2701,
+                    "fakshfr1": "18",
+                    "kurs1": 2,
+                    "gruppa1": "123"
+                },
+                {
+                    "cod1": 2702,
+                    "fakshfr1": "18",
+                    "kurs1": 2,
+                    "gruppa1": "124"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2612,
+                    "fakshfr1": "18",
+                    "kurs1": 3,
+                    "gruppa1": "113"
+                },
+                {
+                    "cod1": 2615,
+                    "fakshfr1": "18",
+                    "kurs1": 3,
+                    "gruppa1": "114"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2555,
+                    "fakshfr1": "18",
+                    "kurs1": 4,
+                    "gruppa1": "103"
+                },
+                {
+                    "cod1": 2556,
+                    "fakshfr1": "18",
+                    "kurs1": 4,
+                    "gruppa1": "104"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2414,
+                    "fakshfr1": "18",
+                    "kurs1": 5,
+                    "gruppa1": "193"
+                },
+                {
+                    "cod1": 2415,
+                    "fakshfr1": "18",
+                    "kurs1": 5,
+                    "gruppa1": "194"
+                }
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "name": "Историко-филологический факультет",
+        "short_name": "ИФФ",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3042,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "14/331М"
+                },
+                {
+                    "cod1": 3043,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "14/332М"
+                },
+                {
+                    "cod1": 2867,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "311ИОА"
+                },
+                {
+                    "cod1": 2784,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "314МА"
+                },
+                {
+                    "cod1": 3095,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "331"
+                },
+                {
+                    "cod1": 3115,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "331ИО"
+                },
+                {
+                    "cod1": 4123,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "331ПО"
+                },
+                {
+                    "cod1": 3116,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "331РЯ"
+                },
+                {
+                    "cod1": 3117,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "332"
+                },
+                {
+                    "cod1": 3097,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "333"
+                },
+                {
+                    "cod1": 3098,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "335"
+                },
+                {
+                    "cod1": 3114,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "339М"
+                },
+                {
+                    "cod1": 2785,
+                    "fakshfr1": "57",
+                    "kurs1": 1,
+                    "gruppa1": "7101ПА"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2833,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "303А"
+                },
+                {
+                    "cod1": 2625,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "311М"
+                },
+                {
+                    "cod1": 2626,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "314М"
+                },
+                {
+                    "cod1": 2721,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "321"
+                },
+                {
+                    "cod1": 2743,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "321ИО"
+                },
+                {
+                    "cod1": 2958,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "321ПО"
+                },
+                {
+                    "cod1": 2742,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "321РЯ"
+                },
+                {
+                    "cod1": 2781,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "322"
+                },
+                {
+                    "cod1": 2746,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "322М"
+                },
+                {
+                    "cod1": 2722,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "323"
+                },
+                {
+                    "cod1": 2780,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "324"
+                },
+                {
+                    "cod1": 2723,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "325"
+                },
+                {
+                    "cod1": 2773,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "329М"
+                },
+                {
+                    "cod1": 2871,
+                    "fakshfr1": "57",
+                    "kurs1": 2,
+                    "gruppa1": "3801РЯА"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2621,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "311"
+                },
+                {
+                    "cod1": 2648,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "311ИО"
+                },
+                {
+                    "cod1": 2647,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "311РЯ"
+                },
+                {
+                    "cod1": 2622,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "312"
+                },
+                {
+                    "cod1": 2623,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "313"
+                },
+                {
+                    "cod1": 2624,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "314"
+                },
+                {
+                    "cod1": 2907,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "3901ИОА/3"
+                },
+                {
+                    "cod1": 2834,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "393А"
+                },
+                {
+                    "cod1": 2692,
+                    "fakshfr1": "57",
+                    "kurs1": 3,
+                    "gruppa1": "7101П"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2518,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "301"
+                },
+                {
+                    "cod1": 2528,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "301ИО"
+                },
+                {
+                    "cod1": 2527,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "301РЯ"
+                },
+                {
+                    "cod1": 2519,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "302"
+                },
+                {
+                    "cod1": 2520,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "303"
+                },
+                {
+                    "cod1": 2522,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "304"
+                },
+                {
+                    "cod1": 2582,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "701"
+                },
+                {
+                    "cod1": 2588,
+                    "fakshfr1": "57",
+                    "kurs1": 4,
+                    "gruppa1": "701П"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2448,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "3901ИО"
+                },
+                {
+                    "cod1": 2449,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "3901РЯ"
+                },
+                {
+                    "cod1": 2402,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "391"
+                },
+                {
+                    "cod1": 2403,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "392"
+                },
+                {
+                    "cod1": 2398,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "393"
+                },
+                {
+                    "cod1": 2399,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "394"
+                },
+                {
+                    "cod1": 2368,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "7802П"
+                },
+                {
+                    "cod1": 2387,
+                    "fakshfr1": "57",
+                    "kurs1": 5,
+                    "gruppa1": "7901П"
+                }
+            ],
+            "6": [
+                {
+                    "cod1": 2265,
+                    "fakshfr1": "57",
+                    "kurs1": 6,
+                    "gruppa1": "3801ИО"
+                },
+                {
+                    "cod1": 2266,
+                    "fakshfr1": "57",
+                    "kurs1": 6,
+                    "gruppa1": "3801РЯ"
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "name": "Факультет психологии и специального образования",
+        "short_name": "ФПСО",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 2787,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8101МсдоА"
+                },
+                {
+                    "cod1": 2901,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8102ЛОА"
+                },
+                {
+                    "cod1": 3056,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301ЛО"
+                },
+                {
+                    "cod1": 3064,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мовз"
+                },
+                {
+                    "cod1": 3060,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мпкк"
+                },
+                {
+                    "cod1": 3059,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мппко"
+                },
+                {
+                    "cod1": 3062,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мппо"
+                },
+                {
+                    "cod1": 3063,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мсдо"
+                },
+                {
+                    "cod1": 3061,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301Мучр"
+                },
+                {
+                    "cod1": 3057,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301ОФ"
+                },
+                {
+                    "cod1": 3054,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301ППО"
+                },
+                {
+                    "cod1": 3053,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301ПСП"
+                },
+                {
+                    "cod1": 3055,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8301СПП"
+                },
+                {
+                    "cod1": 4120,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8302ЛО"
+                },
+                {
+                    "cod1": 4121,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8302ПСП"
+                },
+                {
+                    "cod1": 4122,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "8303ПСП"
+                },
+                {
+                    "cod1": 3070,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "831"
+                },
+                {
+                    "cod1": 3071,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "832"
+                },
+                {
+                    "cod1": 3072,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "833"
+                },
+                {
+                    "cod1": 3074,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "833М"
+                },
+                {
+                    "cod1": 3069,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "835"
+                },
+                {
+                    "cod1": 3075,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "835М"
+                },
+                {
+                    "cod1": 3076,
+                    "fakshfr1": "68",
+                    "kurs1": 1,
+                    "gruppa1": "836М"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2818,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "801МпппА"
+                },
+                {
+                    "cod1": 2876,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "801МсдоА"
+                },
+                {
+                    "cod1": 2893,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "801ОФА"
+                },
+                {
+                    "cod1": 2827,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "801ППОА"
+                },
+                {
+                    "cod1": 2829,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "801ПСПА"
+                },
+                {
+                    "cod1": 2823,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "802МсдоА"
+                },
+                {
+                    "cod1": 2822,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "802ППОА"
+                },
+                {
+                    "cod1": 2965,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "803МА"
+                },
+                {
+                    "cod1": 2977,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "806МА"
+                },
+                {
+                    "cod1": 2674,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "811М"
+                },
+                {
+                    "cod1": 2673,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "813М"
+                },
+                {
+                    "cod1": 2631,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "815М"
+                },
+                {
+                    "cod1": 2632,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "816М"
+                },
+                {
+                    "cod1": 2761,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201ЛО"
+                },
+                {
+                    "cod1": 2762,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201Мовз"
+                },
+                {
+                    "cod1": 2765,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201Мппко"
+                },
+                {
+                    "cod1": 2767,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201Мппо"
+                },
+                {
+                    "cod1": 2777,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201Мсдо"
+                },
+                {
+                    "cod1": 2764,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201Мучр"
+                },
+                {
+                    "cod1": 2763,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201ОФ"
+                },
+                {
+                    "cod1": 2760,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201ППО"
+                },
+                {
+                    "cod1": 2738,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201ПСП"
+                },
+                {
+                    "cod1": 2726,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8201СПП"
+                },
+                {
+                    "cod1": 2962,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8202ЛО"
+                },
+                {
+                    "cod1": 2754,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8202Мсдо"
+                },
+                {
+                    "cod1": 3002,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8202ППО"
+                },
+                {
+                    "cod1": 2992,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8202ПСП"
+                },
+                {
+                    "cod1": 2993,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8203ЛО"
+                },
+                {
+                    "cod1": 2991,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "8203ПСП"
+                },
+                {
+                    "cod1": 2717,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "821"
+                },
+                {
+                    "cod1": 2718,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "822"
+                },
+                {
+                    "cod1": 2720,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "823"
+                },
+                {
+                    "cod1": 2731,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "823М"
+                },
+                {
+                    "cod1": 2752,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "823оз"
+                },
+                {
+                    "cod1": 2750,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "824М"
+                },
+                {
+                    "cod1": 2719,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "825"
+                },
+                {
+                    "cod1": 2751,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "825М"
+                },
+                {
+                    "cod1": 2732,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "826М"
+                },
+                {
+                    "cod1": 2967,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "881А/2"
+                },
+                {
+                    "cod1": 2966,
+                    "fakshfr1": "68",
+                    "kurs1": 2,
+                    "gruppa1": "893МА"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2554,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "801Мппп"
+                },
+                {
+                    "cod1": 2538,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "801Мсдо"
+                },
+                {
+                    "cod1": 2607,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "802Мсдо"
+                },
+                {
+                    "cod1": 2642,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101ЛО"
+                },
+                {
+                    "cod1": 2652,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101Мппио"
+                },
+                {
+                    "cod1": 2677,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101Мппо"
+                },
+                {
+                    "cod1": 2678,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101Мппп"
+                },
+                {
+                    "cod1": 2651,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101Мсдо"
+                },
+                {
+                    "cod1": 2643,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101ОФ"
+                },
+                {
+                    "cod1": 2645,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101ППО"
+                },
+                {
+                    "cod1": 2644,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101ПСП"
+                },
+                {
+                    "cod1": 2646,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8101СПП"
+                },
+                {
+                    "cod1": 2650,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8102ЛО"
+                },
+                {
+                    "cod1": 2694,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8102Мсдо"
+                },
+                {
+                    "cod1": 2687,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8102ПСП"
+                },
+                {
+                    "cod1": 2696,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8103ЛО"
+                },
+                {
+                    "cod1": 2697,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8103ПСП"
+                },
+                {
+                    "cod1": 2635,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "811"
+                },
+                {
+                    "cod1": 2636,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "812"
+                },
+                {
+                    "cod1": 2628,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "813"
+                },
+                {
+                    "cod1": 2661,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "813оз"
+                },
+                {
+                    "cod1": 2630,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "815"
+                },
+                {
+                    "cod1": 3010,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8901МпппА"
+                },
+                {
+                    "cod1": 2957,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8901СППА"
+                },
+                {
+                    "cod1": 2816,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8902ППОА"
+                },
+                {
+                    "cod1": 2825,
+                    "fakshfr1": "68",
+                    "kurs1": 3,
+                    "gruppa1": "8903ЛОА"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2544,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801"
+                },
+                {
+                    "cod1": 2535,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801ЛО"
+                },
+                {
+                    "cod1": 2537,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801ОФ"
+                },
+                {
+                    "cod1": 2549,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801ППО"
+                },
+                {
+                    "cod1": 2533,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801ПСП"
+                },
+                {
+                    "cod1": 2551,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "801СПП"
+                },
+                {
+                    "cod1": 2545,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "802"
+                },
+                {
+                    "cod1": 2536,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "802ЛО"
+                },
+                {
+                    "cod1": 2550,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "802ППО"
+                },
+                {
+                    "cod1": 2534,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "802ПСП"
+                },
+                {
+                    "cod1": 2540,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "803"
+                },
+                {
+                    "cod1": 2606,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "803ЛО"
+                },
+                {
+                    "cod1": 2539,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "805"
+                },
+                {
+                    "cod1": 2937,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "8801ЛОА"
+                },
+                {
+                    "cod1": 2953,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "8801ПСПА"
+                },
+                {
+                    "cod1": 2974,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "885А"
+                },
+                {
+                    "cod1": 2955,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "8901ПСПА/4"
+                },
+                {
+                    "cod1": 2380,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "891"
+                },
+                {
+                    "cod1": 2404,
+                    "fakshfr1": "68",
+                    "kurs1": 4,
+                    "gruppa1": "893"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2956,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "62ПСПА"
+                },
+                {
+                    "cod1": 2220,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8702СПП"
+                },
+                {
+                    "cod1": 2274,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8801ЛО"
+                },
+                {
+                    "cod1": 2343,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8801ОФ"
+                },
+                {
+                    "cod1": 2297,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8801ППО"
+                },
+                {
+                    "cod1": 2336,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8801ПСП"
+                },
+                {
+                    "cod1": 2298,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8801СПП"
+                },
+                {
+                    "cod1": 2357,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8802ЛО"
+                },
+                {
+                    "cod1": 2365,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8802ППО"
+                },
+                {
+                    "cod1": 2363,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8802ПСП"
+                },
+                {
+                    "cod1": 2361,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8803ЛО"
+                },
+                {
+                    "cod1": 2239,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "885"
+                },
+                {
+                    "cod1": 2458,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8901ЛО"
+                },
+                {
+                    "cod1": 2464,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8901ОФ"
+                },
+                {
+                    "cod1": 2391,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8901ППО"
+                },
+                {
+                    "cod1": 2455,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8901ПСП"
+                },
+                {
+                    "cod1": 2393,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8901СПП"
+                },
+                {
+                    "cod1": 2459,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8902ЛО"
+                },
+                {
+                    "cod1": 2392,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8902ППО"
+                },
+                {
+                    "cod1": 2457,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8902ПСП"
+                },
+                {
+                    "cod1": 2482,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "8903ЛО"
+                },
+                {
+                    "cod1": 2405,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "895"
+                },
+                {
+                    "cod1": 2181,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "9701ОФ"
+                },
+                {
+                    "cod1": 2180,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "9702ЛО"
+                },
+                {
+                    "cod1": 2975,
+                    "fakshfr1": "68",
+                    "kurs1": 5,
+                    "gruppa1": "975А"
+                }
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "name": "Институт иностранных языков и международного сотрудничества",
+        "short_name": "ИИЯМС",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3079,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "231"
+                },
+                {
+                    "cod1": 3085,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "2310"
+                },
+                {
+                    "cod1": 3106,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "2311"
+                },
+                {
+                    "cod1": 3108,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "231аИЯ"
+                },
+                {
+                    "cod1": 4125,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "231ЛПиП"
+                },
+                {
+                    "cod1": 3100,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "231оз"
+                },
+                {
+                    "cod1": 3080,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "232"
+                },
+                {
+                    "cod1": 3111,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "232М"
+                },
+                {
+                    "cod1": 3081,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "233"
+                },
+                {
+                    "cod1": 3086,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "235"
+                },
+                {
+                    "cod1": 3105,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "236"
+                },
+                {
+                    "cod1": 3088,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "237"
+                },
+                {
+                    "cod1": 3084,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "238"
+                },
+                {
+                    "cod1": 3083,
+                    "fakshfr1": "69",
+                    "kurs1": 1,
+                    "gruppa1": "239"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2659,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "211М"
+                },
+                {
+                    "cod1": 2789,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "215МА"
+                },
+                {
+                    "cod1": 2712,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "221"
+                },
+                {
+                    "cod1": 3001,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "2210"
+                },
+                {
+                    "cod1": 2959,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "221аИЯ"
+                },
+                {
+                    "cod1": 2725,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "221ЛПиП"
+                },
+                {
+                    "cod1": 2703,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "221М"
+                },
+                {
+                    "cod1": 2778,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "221оз"
+                },
+                {
+                    "cod1": 2790,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "222"
+                },
+                {
+                    "cod1": 2995,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "222ЛПиП"
+                },
+                {
+                    "cod1": 2771,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "222М"
+                },
+                {
+                    "cod1": 2708,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "223"
+                },
+                {
+                    "cod1": 2798,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "223/1"
+                },
+                {
+                    "cod1": 2704,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "224"
+                },
+                {
+                    "cod1": 2710,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "225"
+                },
+                {
+                    "cod1": 2772,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "225М"
+                },
+                {
+                    "cod1": 2711,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "226"
+                },
+                {
+                    "cod1": 2809,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "227"
+                },
+                {
+                    "cod1": 2796,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "228"
+                },
+                {
+                    "cod1": 2730,
+                    "fakshfr1": "69",
+                    "kurs1": 2,
+                    "gruppa1": "229"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2656,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "211"
+                },
+                {
+                    "cod1": 2654,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "211ЛПиП"
+                },
+                {
+                    "cod1": 2660,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "211оз"
+                },
+                {
+                    "cod1": 2657,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "212"
+                },
+                {
+                    "cod1": 2695,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "212ЛПиП"
+                },
+                {
+                    "cod1": 2658,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "213"
+                },
+                {
+                    "cod1": 2691,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "213/1"
+                },
+                {
+                    "cod1": 2680,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "214"
+                },
+                {
+                    "cod1": 2682,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "217"
+                },
+                {
+                    "cod1": 2679,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "219"
+                },
+                {
+                    "cod1": 2900,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "2901аИЯА"
+                },
+                {
+                    "cod1": 2899,
+                    "fakshfr1": "69",
+                    "kurs1": 3,
+                    "gruppa1": "2902ЛПиПА"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2558,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "201"
+                },
+                {
+                    "cod1": 2595,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "201аИЯ"
+                },
+                {
+                    "cod1": 2596,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "201ЛПиП"
+                },
+                {
+                    "cod1": 2561,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "202"
+                },
+                {
+                    "cod1": 2597,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "202ЛПиП"
+                },
+                {
+                    "cod1": 2598,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "203"
+                },
+                {
+                    "cod1": 2507,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "204"
+                },
+                {
+                    "cod1": 2508,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "206"
+                },
+                {
+                    "cod1": 2506,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "207"
+                },
+                {
+                    "cod1": 2600,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "208"
+                },
+                {
+                    "cod1": 2509,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "209"
+                },
+                {
+                    "cod1": 2888,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "286А"
+                },
+                {
+                    "cod1": 2441,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "290"
+                },
+                {
+                    "cod1": 2439,
+                    "fakshfr1": "69",
+                    "kurs1": 4,
+                    "gruppa1": "295"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2984,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2701аИЯА/5"
+                },
+                {
+                    "cod1": 2985,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2701ЛПиПА/5"
+                },
+                {
+                    "cod1": 2889,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "272А"
+                },
+                {
+                    "cod1": 2891,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "273А"
+                },
+                {
+                    "cod1": 2894,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "278А"
+                },
+                {
+                    "cod1": 2358,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2801аИЯ"
+                },
+                {
+                    "cod1": 2338,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2801ЛПиП"
+                },
+                {
+                    "cod1": 2240,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "281"
+                },
+                {
+                    "cod1": 2242,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "283"
+                },
+                {
+                    "cod1": 2248,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "288"
+                },
+                {
+                    "cod1": 2491,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2901аИЯ"
+                },
+                {
+                    "cod1": 2467,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2901ЛПиП"
+                },
+                {
+                    "cod1": 2478,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "2902ЛПиП"
+                },
+                {
+                    "cod1": 2431,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "291"
+                },
+                {
+                    "cod1": 2432,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "292"
+                },
+                {
+                    "cod1": 2433,
+                    "fakshfr1": "69",
+                    "kurs1": 5,
+                    "gruppa1": "293"
+                }
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "name": "Институт развития педагогического образования",
+        "short_name": "ИРПО",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3040,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "14/231М"
+                },
+                {
+                    "cod1": 3041,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "14/233М"
+                },
+                {
+                    "cod1": 3031,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1431М"
+                },
+                {
+                    "cod1": 3049,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1431Мусо"
+                },
+                {
+                    "cod1": 3032,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1432/1М"
+                },
+                {
+                    "cod1": 3050,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1432/1Мвмп"
+                },
+                {
+                    "cod1": 3051,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1432/2Мвмп"
+                },
+                {
+                    "cod1": 3034,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1432/3М"
+                },
+                {
+                    "cod1": 3052,
+                    "fakshfr1": "70",
+                    "kurs1": 1,
+                    "gruppa1": "1432/3Мвмп"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2775,
+                    "fakshfr1": "70",
+                    "kurs1": 2,
+                    "gruppa1": "1421Мпсш"
+                },
+                {
+                    "cod1": 2609,
+                    "fakshfr1": "70",
+                    "kurs1": 2,
+                    "gruppa1": "719М"
+                },
+                {
+                    "cod1": 2776,
+                    "fakshfr1": "70",
+                    "kurs1": 2,
+                    "gruppa1": "7201Мусо"
+                },
+                {
+                    "cod1": 2756,
+                    "fakshfr1": "70",
+                    "kurs1": 2,
+                    "gruppa1": "729М"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2589,
+                    "fakshfr1": "70",
+                    "kurs1": 3,
+                    "gruppa1": "701Мусо"
+                },
+                {
+                    "cod1": 2675,
+                    "fakshfr1": "70",
+                    "kurs1": 3,
+                    "gruppa1": "7101Мусо"
+                }
+            ]
+        }
+    },
+    {
+        "id": 71,
+        "name": "Институт детства и артпедагогики",
+        "short_name": "ИДиА",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3099,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "1031"
+                },
+                {
+                    "cod1": 3113,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "1031М"
+                },
+                {
+                    "cod1": 3094,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "1032"
+                },
+                {
+                    "cod1": 3096,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "1033"
+                },
+                {
+                    "cod1": 3066,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "631"
+                },
+                {
+                    "cod1": 3103,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "631ДО"
+                },
+                {
+                    "cod1": 3104,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "631НО"
+                },
+                {
+                    "cod1": 3068,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "632"
+                },
+                {
+                    "cod1": 4130,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "632ДО"
+                },
+                {
+                    "cod1": 4124,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "632НО"
+                },
+                {
+                    "cod1": 4129,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "633ДО"
+                },
+                {
+                    "cod1": 4128,
+                    "fakshfr1": "71",
+                    "kurs1": 1,
+                    "gruppa1": "633НО"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2914,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "602А"
+                },
+                {
+                    "cod1": 2921,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "603ДОА"
+                },
+                {
+                    "cod1": 2672,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "611М"
+                },
+                {
+                    "cod1": 2714,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621"
+                },
+                {
+                    "cod1": 2741,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621ДО"
+                },
+                {
+                    "cod1": 2753,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621М"
+                },
+                {
+                    "cod1": 2749,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621Масс"
+                },
+                {
+                    "cod1": 2755,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621Мпвпд"
+                },
+                {
+                    "cod1": 2740,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "621НО"
+                },
+                {
+                    "cod1": 2800,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "622"
+                },
+                {
+                    "cod1": 2806,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "622ДО"
+                },
+                {
+                    "cod1": 2747,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "622М"
+                },
+                {
+                    "cod1": 2807,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "622НО"
+                },
+                {
+                    "cod1": 2728,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "623"
+                },
+                {
+                    "cod1": 2997,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "623ДО"
+                },
+                {
+                    "cod1": 2729,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "624"
+                },
+                {
+                    "cod1": 2724,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "625"
+                },
+                {
+                    "cod1": 2964,
+                    "fakshfr1": "71",
+                    "kurs1": 2,
+                    "gruppa1": "6901МноА"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 3012,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "51МноА"
+                },
+                {
+                    "cod1": 2633,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "611"
+                },
+                {
+                    "cod1": 2670,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "611ДО"
+                },
+                {
+                    "cod1": 2641,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "611Мно"
+                },
+                {
+                    "cod1": 2611,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "611Мрд"
+                },
+                {
+                    "cod1": 2639,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "611НО"
+                },
+                {
+                    "cod1": 2685,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "612"
+                },
+                {
+                    "cod1": 2690,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "612ДО"
+                },
+                {
+                    "cod1": 2640,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "612НО"
+                },
+                {
+                    "cod1": 2634,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "613"
+                },
+                {
+                    "cod1": 2927,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "6901НОА/3"
+                },
+                {
+                    "cod1": 2928,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "6902НОА"
+                },
+                {
+                    "cod1": 2922,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "6904ДОА"
+                },
+                {
+                    "cod1": 2920,
+                    "fakshfr1": "71",
+                    "kurs1": 3,
+                    "gruppa1": "6904НОА"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2565,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1001"
+                },
+                {
+                    "cod1": 2576,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1001муз"
+                },
+                {
+                    "cod1": 2566,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1002"
+                },
+                {
+                    "cod1": 2577,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1002кпд"
+                },
+                {
+                    "cod1": 2567,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1003"
+                },
+                {
+                    "cod1": 3005,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "1083А"
+                },
+                {
+                    "cod1": 2525,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "601"
+                },
+                {
+                    "cod1": 2599,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "601ДО"
+                },
+                {
+                    "cod1": 2530,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "601НО"
+                },
+                {
+                    "cod1": 2526,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "602"
+                },
+                {
+                    "cod1": 2604,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "602ДО"
+                },
+                {
+                    "cod1": 2531,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "602НО"
+                },
+                {
+                    "cod1": 2605,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "603ДО"
+                },
+                {
+                    "cod1": 3016,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6701ДОА"
+                },
+                {
+                    "cod1": 2978,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6702НОА"
+                },
+                {
+                    "cod1": 2980,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6803НОА"
+                },
+                {
+                    "cod1": 3022,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6804НОА"
+                },
+                {
+                    "cod1": 3023,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6806ДОА"
+                },
+                {
+                    "cod1": 2450,
+                    "fakshfr1": "71",
+                    "kurs1": 4,
+                    "gruppa1": "6901НО"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2419,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "1092"
+                },
+                {
+                    "cod1": 2420,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "1093"
+                },
+                {
+                    "cod1": 3020,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "52НОА"
+                },
+                {
+                    "cod1": 2932,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "63НОА"
+                },
+                {
+                    "cod1": 2268,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6802ДО"
+                },
+                {
+                    "cod1": 2277,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6802НО"
+                },
+                {
+                    "cod1": 2269,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6803ДО"
+                },
+                {
+                    "cod1": 2278,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6803НО"
+                },
+                {
+                    "cod1": 2359,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6804ДО"
+                },
+                {
+                    "cod1": 2351,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6804НО"
+                },
+                {
+                    "cod1": 2369,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6806ДО"
+                },
+                {
+                    "cod1": 2280,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "681"
+                },
+                {
+                    "cod1": 2281,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "682"
+                },
+                {
+                    "cod1": 2463,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6902ДО"
+                },
+                {
+                    "cod1": 2451,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6902НО"
+                },
+                {
+                    "cod1": 2485,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6903ДО"
+                },
+                {
+                    "cod1": 2473,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6903НО"
+                },
+                {
+                    "cod1": 2474,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6904ДО"
+                },
+                {
+                    "cod1": 2492,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6904НО"
+                },
+                {
+                    "cod1": 2493,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6905ДО"
+                },
+                {
+                    "cod1": 2494,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "6906ДО"
+                },
+                {
+                    "cod1": 2410,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "691"
+                },
+                {
+                    "cod1": 2411,
+                    "fakshfr1": "71",
+                    "kurs1": 5,
+                    "gruppa1": "692"
+                }
+            ]
+        }
+    },
+    {
+        "id": 72,
+        "name": "Технолого-экономический факультет",
+        "short_name": "ТЭФ",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 2846,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "1102МА"
+                },
+                {
+                    "cod1": 2799,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "1111ПОА"
+                },
+                {
+                    "cod1": 3044,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "14/731М"
+                },
+                {
+                    "cod1": 3045,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "14/732М"
+                },
+                {
+                    "cod1": 3028,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "731"
+                },
+                {
+                    "cod1": 3058,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "731Т"
+                },
+                {
+                    "cod1": 3029,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "733"
+                },
+                {
+                    "cod1": 3048,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "735оз"
+                },
+                {
+                    "cod1": 3030,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "739М"
+                },
+                {
+                    "cod1": 3046,
+                    "fakshfr1": "72",
+                    "kurs1": 1,
+                    "gruppa1": "739оз"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2706,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "721"
+                },
+                {
+                    "cod1": 2774,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "721Ктдо"
+                },
+                {
+                    "cod1": 2757,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "721М"
+                },
+                {
+                    "cod1": 2735,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "721Срб"
+                },
+                {
+                    "cod1": 2727,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "722М"
+                },
+                {
+                    "cod1": 2705,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "723"
+                },
+                {
+                    "cod1": 2759,
+                    "fakshfr1": "72",
+                    "kurs1": 2,
+                    "gruppa1": "725ОЗ"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2619,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "1111"
+                },
+                {
+                    "cod1": 2638,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "1111ПО"
+                },
+                {
+                    "cod1": 2620,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "1113"
+                },
+                {
+                    "cod1": 2637,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "711"
+                },
+                {
+                    "cod1": 2945,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "7801эФиК/3А"
+                },
+                {
+                    "cod1": 2390,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "7901Мпо"
+                },
+                {
+                    "cod1": 2944,
+                    "fakshfr1": "72",
+                    "kurs1": 3,
+                    "gruppa1": "7901э(ФиК)А"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2569,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "1101"
+                },
+                {
+                    "cod1": 2579,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "1101ПО"
+                },
+                {
+                    "cod1": 2570,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "1103"
+                },
+                {
+                    "cod1": 2994,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "11801ЛрА"
+                },
+                {
+                    "cod1": 2999,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "61ПОА"
+                },
+                {
+                    "cod1": 2586,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "701м"
+                },
+                {
+                    "cod1": 2584,
+                    "fakshfr1": "72",
+                    "kurs1": 4,
+                    "gruppa1": "701э"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2306,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "11801ПО"
+                },
+                {
+                    "cod1": 2308,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "11801ТП"
+                },
+                {
+                    "cod1": 2397,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "11901Лр"
+                },
+                {
+                    "cod1": 2475,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "11901ПО"
+                },
+                {
+                    "cod1": 2469,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "11901Тр"
+                },
+                {
+                    "cod1": 2374,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "1191"
+                },
+                {
+                    "cod1": 2288,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "7801э(ФиК)"
+                },
+                {
+                    "cod1": 2285,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "781"
+                },
+                {
+                    "cod1": 2385,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "7901м(ГМУ)"
+                },
+                {
+                    "cod1": 2480,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "7901э(ФиК)"
+                },
+                {
+                    "cod1": 2378,
+                    "fakshfr1": "72",
+                    "kurs1": 5,
+                    "gruppa1": "791"
+                }
+            ]
+        }
+    },
+    {
+        "id": 73,
+        "name": "Институт научных исследований и разработок",
+        "short_name": "ИНИР",
+        "groups": {
+            "2": [
+                {
+                    "cod1": 2769,
+                    "fakshfr1": "73",
+                    "kurs1": 2,
+                    "gruppa1": "425М"
+                }
+            ]
+        }
+    },
+    {
+        "id": 75,
+        "name": "Институт физической культуры и спорта",
+        "short_name": "ИФКС",
+        "groups": {
+            "1": [
+                {
+                    "cod1": 3107,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "5301ФК"
+                },
+                {
+                    "cod1": 4126,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "5302ФК"
+                },
+                {
+                    "cod1": 4127,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "5303ФК"
+                },
+                {
+                    "cod1": 3065,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "531"
+                },
+                {
+                    "cod1": 3073,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "531М"
+                },
+                {
+                    "cod1": 4117,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "532"
+                },
+                {
+                    "cod1": 4118,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "533"
+                },
+                {
+                    "cod1": 4119,
+                    "fakshfr1": "75",
+                    "kurs1": 1,
+                    "gruppa1": "534"
+                }
+            ],
+            "2": [
+                {
+                    "cod1": 2739,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "5201ФК"
+                },
+                {
+                    "cod1": 2988,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "5202ФК"
+                },
+                {
+                    "cod1": 2998,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "5203ФК"
+                },
+                {
+                    "cod1": 2713,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "521"
+                },
+                {
+                    "cod1": 2734,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "521М"
+                },
+                {
+                    "cod1": 2808,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "522"
+                },
+                {
+                    "cod1": 2744,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "522М"
+                },
+                {
+                    "cod1": 2733,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "523"
+                },
+                {
+                    "cod1": 3024,
+                    "fakshfr1": "75",
+                    "kurs1": 2,
+                    "gruppa1": "524"
+                }
+            ],
+            "3": [
+                {
+                    "cod1": 2668,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "5101ФК"
+                },
+                {
+                    "cod1": 2683,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "5102ФК"
+                },
+                {
+                    "cod1": 2684,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "5103ФК"
+                },
+                {
+                    "cod1": 2667,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "511"
+                },
+                {
+                    "cod1": 2688,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "512"
+                },
+                {
+                    "cod1": 2689,
+                    "fakshfr1": "75",
+                    "kurs1": 3,
+                    "gruppa1": "513"
+                }
+            ],
+            "4": [
+                {
+                    "cod1": 2559,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "501"
+                },
+                {
+                    "cod1": 2573,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "501ФК"
+                },
+                {
+                    "cod1": 2562,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "502"
+                },
+                {
+                    "cod1": 2574,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "502ФК"
+                },
+                {
+                    "cod1": 2563,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "503"
+                },
+                {
+                    "cod1": 2575,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "503ФК"
+                },
+                {
+                    "cod1": 2863,
+                    "fakshfr1": "75",
+                    "kurs1": 4,
+                    "gruppa1": "583А"
+                }
+            ],
+            "5": [
+                {
+                    "cod1": 2396,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "5901ФК"
+                },
+                {
+                    "cod1": 2477,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "5902ФК"
+                },
+                {
+                    "cod1": 2481,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "5903ФК"
+                },
+                {
+                    "cod1": 2376,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "591"
+                },
+                {
+                    "cod1": 2424,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "592"
+                },
+                {
+                    "cod1": 2425,
+                    "fakshfr1": "75",
+                    "kurs1": 5,
+                    "gruppa1": "593"
+                }
+            ]
+        }
+    }
+]
